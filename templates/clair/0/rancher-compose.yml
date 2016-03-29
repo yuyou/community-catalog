@@ -1,0 +1,9 @@
+.catalog:
+  name: "Clair"
+  version: "v1.0"
+  description: "Container Vulnerability Analysis Service"
+  uuid: clair-0
+  minimum_rancher_version: v0.59.1
+  
+clair:
+  scale: 1
